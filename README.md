@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+### 🤡 Brief Introduction
+
+- 🏫 I’m currently a college student on **<a href="https://www.gdut.edu.cn/">Guangdong University of Technology</a>**, majoring in **Computer Science and Technology**.
+- 🌱 My research interests include eating, drinking, playing and enjoying.(Haha
+- 📫 You can get in touch with me by email at [chieh504@qq.com](mailto:chieh504@qq.com)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UCanSeeeeee&hide=prs,stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UCanSeeeeee&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
