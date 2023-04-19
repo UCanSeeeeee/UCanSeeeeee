@@ -18,6 +18,10 @@
 [**DiDi**](https://www.didiglobal.com/) • 2022/09 - 2023/01 \
 
 <br>
+<br>
+<br>
+<br>
+<br>
 
 [<img align="left" height="94px" width="94px" alt="GDUT" src="./Resource/GDUT.png"/>](https://www.gdut.edu.cn/)
 
