@@ -9,12 +9,21 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UCanSeeeeee&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+### 💦 Experiences
+
+[<img align="left" height="94px" width="94px" alt="DiDi" src="./Resource/DiDi.png"/>](https://www.didiglobal.com/)
+
+[**DiDi**](https://www.didiglobal.com/) • 2022/09 - 2023/01 \
+<br>
+
 [<img align="left" height="94px" width="94px" alt="GDUT" src="./Resource/GDUT.png"/>](https://www.gdut.edu.cn/)
 
-**Graduate Student** \
-[**GDUT**](https://www.gdut.edu.cn/) • 2021/09/01 - 2024/07/01 \
+[**GDUT**](https://www.gdut.edu.cn/) • 2019/09 - 2023/07 \
 <br/>
 
+---
 <!--
 **UCanSeeeeee/UCanSeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
