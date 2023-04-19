@@ -15,16 +15,16 @@
 
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Resource/DiDi.png"/>](https://www.didiglobal.com/)
 
+**iOS Research and Development** \
 [**DiDi**](https://www.didiglobal.com/) • 2022/09 - 2023/01 \
 
-<br>
-<br>
 <br>
 <br>
 <br>
 
 [<img align="left" height="94px" width="94px" alt="GDUT" src="./Resource/GDUT.png"/>](https://www.gdut.edu.cn/)
 
+**College Student** \
 [**GDUT**](https://www.gdut.edu.cn/) • 2019/09 - 2023/07 \
 
 <br/>
