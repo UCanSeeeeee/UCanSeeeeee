@@ -8,6 +8,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UCanSeeeeee&hide=prs,stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UCanSeeeeee&hide=javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[<img align="left" height="94px" width="94px" alt="GDUT" src="./Resource/GDUT.png"/>](https://www.gdut.edu.cn/)
+
+**Graduate Student** \
+[**GDUT**](https://www.gdut.edu.cn/) • 2021/09/01 - 2024/07/01 \
+<br/>
+
 <!--
 **UCanSeeeeee/UCanSeeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
