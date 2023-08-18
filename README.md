@@ -16,7 +16,7 @@
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Resource/DiDi.png"/>](https://www.didiglobal.com/)
 
 **iOS Research and Development** \
-[**DiDi**](https://www.didiglobal.com/) • 2022/09 - 2023/01
+[**DiDi**](https://www.didiglobal.com/) • 2022/09 - 2023/08
 
 <br>
 <br>
